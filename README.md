@@ -56,6 +56,8 @@ The interactive maps are linked to the images and are available in ![folium_maps
 
 ![![price_colormap](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/colormap_price.png)](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/tree/master/folium_maps)
 
+![Interactive price map](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/master/folium_maps/price_colormap.html)
+
 
 ## Submitting your Project
 
