@@ -1,24 +1,25 @@
 
-# Module 2 Final Project
-
-
-## Introduction
-
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 2.
-
-## Objectives
-You will be able to:
-* Describe all required aspects of the final project for Module 2
-* Describe all required deliverables
-* Describe what constitutes a successful project
-
-## Final Project Summary
-
-Another module down--you're almost half way there!
+# King County Housing Data Analysis
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-2-project-v2-1/master/halfway-there.gif)
 
+
+
+## Background
+
+Being able to understand the home characteristics that ultimately affect the sale price of a home in the Seattle area, can help us to:
+* identify good values when purchasing homes
+* maximize our profits by manipulating characteristics of the home
+* avoid overspending on home purchases or unnecessary renovations
+
+![seattle_pikes_place](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/seattle-4748986_640.jpg)
+
 All that remains in Module 2 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "level up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
+
+## Objectives
+* Use Linear Regression to model how a variety of home characteristics affect the sale price in King County, Washington.
+
+
 
 ## The Dataset
 
