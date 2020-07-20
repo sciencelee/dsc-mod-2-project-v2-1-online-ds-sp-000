@@ -53,7 +53,8 @@ Model evalueation including r-squared and mean squared error (MSE)
 ## The Results
 An good picture/overview of home prices in Seattle can be seen by looking at a series of maps made with Folium in this project.
 The interactive maps are linked to the images and are available in ![folium_maps folder](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/tree/master/folium_maps)
-![price_colormap](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/colormap_price.png)
+
+![![price_colormap](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/colormap_price.png)](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/tree/master/folium_maps)
 
 
 ## Submitting your Project
