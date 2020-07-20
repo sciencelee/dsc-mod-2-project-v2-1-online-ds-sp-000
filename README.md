@@ -1,8 +1,7 @@
 
 # King County Housing Data Analysis
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-2-project-v2-1/master/halfway-there.gif)
-
+![seattle_pikes_place](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/seattle-4748986_640.jpg)
 
 
 ## Background
@@ -12,7 +11,6 @@ Being able to understand the home characteristics that ultimately affect the sal
 * maximize our profits by manipulating characteristics of the home
 * avoid overspending on home purchases or unnecessary renovations
 
-![seattle_pikes_place](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/seattle-4748986_640.jpg)
 
 All that remains in Module 2 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "level up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
 
