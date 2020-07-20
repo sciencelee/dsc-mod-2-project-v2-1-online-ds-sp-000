@@ -1,7 +1,7 @@
 
 # King County Housing Data Analysis
 
-![seattle_pikes_place](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/seattle-4748986_640.jpg)
+![seattle_pikes_place](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/seattle-4748986_640.jpg)
 
 
 ## Background
@@ -51,7 +51,7 @@ Model evalueation including r-squared and mean squared error (MSE)
 
 
 ## The Results
-![price_colormap](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/seattle-4748986_640.jpg)
+![price_colormap]()
 
 
 ## Submitting your Project
