@@ -149,6 +149,8 @@ If you are looking to sell an investment home in King County:
 * Reserve high end investments for areas where market can handle high end homes
 * Sell in the spring/summer.  List in March/April
 
+see Mod2Presentation.pdf file for more data presentation.
+
 
 ## Further Study
 A predictive model might be helpful by using other tools.  
