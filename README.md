@@ -50,15 +50,36 @@ Overfitting measures such as k-fold validation
 Model evalueation including r-squared and mean squared error (MSE)
 
 
-## The Results
-An good picture/overview of home prices in Seattle can be seen by looking at a series of maps made with Folium in this project.
+## The Data
+A good picture/overview of home prices in Seattle can be seen by looking at a series of maps made with Folium in this project.
 The interactive maps are linked to the images and are available in [folium_maps folder](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/tree/master/folium_maps)
 
 The most revealing maps for our model are below:
+
+Map of all 21000+ homes with a hue of sale price.
 ![All Homes Price Colomap](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/colormap_price.png)
+
+Map of all 20 King County school districts with hue of mean home sale price
 ![School districts with mean price map](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/school_dist_choropleth.png)
+
+Map of all home sales with views.
 ![Home Views Colormap](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/view_colormap.png)
 
+We filtered our data to remove the following homes
+*  homes with sale price less than $120,000 or more than $2,000,000.
+*  homes with fewer than 2 bedrooms or more than 5.
+*  homes with assessed condition of poor or very poor
+
+We calculated and added the following columns:
+* distance to downtown
+* distance to nearest waterfront
+* school district
+* rating of school district by niche.com
+* number of homes with view in neighborhood/proximity to home
+* has basement
+
+Using single variable regressions, we determined that no indiviudal variable is sufficient to describe the price, but several independent variables stood out with r-squared over 0.4.  The single variable regression results for the top r-squared values is below.
+![Single Variable Regression](https://github.com/sciencelee/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/images/single_var_regression.png)
 
 
 ## Submitting your Project
