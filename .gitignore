@@ -1,5 +1,6 @@
   
 .ipynb_checkpoints
+.learn
 .DS_Store
 __pycache__
 *.db
